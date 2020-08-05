@@ -24,7 +24,7 @@
     }
     .site-main .about-area .row .about-title .paragraph > p  {       
         width: 29rem;
-        margin:0 -30px;
+        margin:0 0.1rem;
      }       
 
 }
@@ -36,7 +36,7 @@
     .header_area .main-menu .navbar,
     .header_area .main-menu .navbar .navbar-brand,
     .site-main .services-area {
-        padding:0.1% 5px;
+        padding:0.1% 0;
         margin: 0%;
     }
 
