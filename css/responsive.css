@@ -14,7 +14,7 @@
         font-size: 41px;
     }
     .site-main > .services-area .services-list .services{
-        width: 18rem;
+        width: 14rem;
         height: 70vh;
 
     }
@@ -24,7 +24,7 @@
     }
     .site-main .about-area .row .about-title .paragraph > p  {       
         width: 16rem;
-        margin:0 -30px;
+        margin:0 20px;
      }       
 
 }
