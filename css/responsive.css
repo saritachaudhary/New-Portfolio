@@ -14,7 +14,7 @@
         font-size: 41px;
     }
     .site-main > .services-area .services-list .services{
-        width: 20rem;
+        width: 16rem;
         height: 70vh;
 
     }
@@ -23,7 +23,7 @@
        text-align: center;
     }
     .site-main .about-area .row .about-title .paragraph > p  {       
-        width: 29rem;
+        width: 25rem;
         margin:0 0.1rem;
      }       
 
