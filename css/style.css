@@ -230,7 +230,7 @@ button:hover
     display: block;
     font: normal bold 45px var(--roboto);
     font-family: 'Oswald', sans-serif;
-    letter-spacing: 15px;
+    letter-spacing: 10px;
 }
 
 .site-main .about-area .about-title .paragraph > p{
