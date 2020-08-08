@@ -290,7 +290,6 @@ button:hover
 
 .site-main .project-area .grid .our-project > .title h4{
     font: normal 700 25px/12px var(--roboto);
-    letter-spacing: 5px;
 }
 
 .site-main .project-area .grid .our-project .img a:hover img{
@@ -305,7 +304,6 @@ button:hover
 
 .site-main .about-area .about-title p{
     padding: 1rem 7rem;
-    letter-spacing:5px;
 }
 
 .site-main .about-area .client{
